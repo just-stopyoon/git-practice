@@ -1,5 +1,2 @@
-stopyoon<<<<<<< Updated upstream
-=======
-
-# 주석으로 코드 작성
->>>>>>> Stashed changes
+stopyoon
+새로운 브랜치 생성
